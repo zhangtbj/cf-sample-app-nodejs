@@ -1,4 +1,4 @@
-# CF Sample App Node.js test4
+# CF Sample App Node.js test-git trigger
 
 A sample [Express](http://expressjs.com/) application to deploy to Cloud Foundry which works out of the box.
 
