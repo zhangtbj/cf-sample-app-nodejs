@@ -1,4 +1,4 @@
-# CF Sample App Node.js 
+# CF Sample App Node.js for coligo
 
 A sample [Express](http://expressjs.com/) application to deploy to Cloud Foundry which works out of the box.
 
